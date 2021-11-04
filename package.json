@@ -1,0 +1,22 @@
+{
+  "name": "@vijayjoshi16/is-odd",
+  "version": "1.0.0",
+  "description": "Checks whether a no is odd nor not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayjoshi16/my-first-npm-package.git"
+  },
+  "keywords": [
+    "odd"
+  ],
+  "author": "Vijay Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijayjoshi16/my-first-npm-package/issues"
+  },
+  "homepage": "https://github.com/vijayjoshi16/my-first-npm-package#readme"
+}
