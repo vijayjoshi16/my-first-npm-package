@@ -1,6 +1,6 @@
 {
   "name": "@vijayjoshi16/is-odd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks whether a no is odd nor not",
   "main": "index.js",
   "scripts": {
